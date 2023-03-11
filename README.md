@@ -9,7 +9,7 @@ Program to count the frequency of each unique word with 3 unit tests.
 
 TEST CASE 1 -
 
-1.Enter a string or text into the python program.
+1.Enter a string or text into the python program.  
 2.The program replaces the word in the string with the new word and returns output.
 
 Input: Hello World Python Program
@@ -18,10 +18,10 @@ Output: Hello World Java Program
 
 TEST CASE 2-
 
-1.Enter a string or text into the python program.
-2.The program returns the count frequencey of all lowercase character as output.
-3.It should be able to read spaces, tabs, and newline characters as separators.
-4.Print all characters count present in string.
+1.Enter a string or text into the python program.  
+2.The program returns the count frequencey of all lowercase character as output.  
+3.It should be able to read spaces, tabs, and newline characters as separators.  
+4.Print all characters count present in string.  
 
 Input: Hello World Python Program
 
@@ -29,7 +29,7 @@ Output: 19
 
 TEST CASE 3
 
-1.Enter a string or text into the python program.
+1.Enter a string or text into the python program.  
 2.The program converts all uppercase characters to lowercase and prints the output.
 
 Input: Hello World Python Program
