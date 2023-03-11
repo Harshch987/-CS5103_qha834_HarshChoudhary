@@ -36,8 +36,8 @@ Input: Hello World Python Program
 
 Output: hello world python program
 
-How to run program
-On Terminal 
+#How to run program On Terminal 
+-------------------------------------------
 
 Install Python3 before starting.
 Change directory to where 'index.py' is located. 
