@@ -4,6 +4,9 @@ Name-Harsh Choudhary, qha834
 Checkpoint: 3/10/2023
 Language:Python3
 
+Program to count the frequency of each unique word with 3 unit tests.
+(supports combinations of space, tab, and newline characters as separators).
+
 TEST CASE 1 -
 
 1.Enter a string or text into the python program.
