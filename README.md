@@ -44,11 +44,11 @@ Output: Hello world
 #How to run program On Terminal 
 -------------------------------------------
 
-Install Python3 before starting.
-Change directory to where 'index.py' is located. 
-Enter 'python3 index.py' on terminal to run python file.
-The program will execute and will print the output accordingly to the text taken as input. 
-It prints the the count of unique words, number of lines and number of characters.
+Install Python3 before starting.  
+Change directory to where 'index.py' is located.   
+Enter 'python3 index.py' on terminal to run python file.  
+The program will execute and will print the output accordingly to the text taken as input.   
+It prints the the count of unique words, number of lines and number of characters.  
 
 Followed by unit test which performs operations of string as :
 1. Word replacement.
