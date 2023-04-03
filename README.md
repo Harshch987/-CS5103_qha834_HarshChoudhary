@@ -16,8 +16,8 @@ TEST CASE 1 -
 2.The program returns the count of each character and count of lines present in the string.  
 3.It should be able to read across spaces, tabs, and newline character as seperators.
 
-Input: Hello 
-       World 
+Input: Hello   
+       World   
        Python Program
 
 Output: Lines: 3, Characters: 23
