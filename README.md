@@ -39,8 +39,6 @@ TEST CASE 3 -
 Input: Hello, world!
 Output: Hello world
 
-Pylint Run - Your code has been rated at 9.14/10 (previous run: 8.57/10, +0.57)  
-
 #How to run program On Terminal 
 -------------------------------------------
 
