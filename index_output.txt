@@ -1,6 +1,10 @@
-i        1
-am       1
-in       2
-harsh    1
-studying 1
-utsa     1
+Number of lines:      2
+
+Number of characters: 11
+
+i          1
+am         1
+in         2
+harsh      1
+studying   1
+utsa       1
