@@ -1,6 +1,6 @@
-Number of lines:      2
+Number of lines:      3
 
-Number of characters: 11
+Number of characters: 22
 
 i          1
 am         1
