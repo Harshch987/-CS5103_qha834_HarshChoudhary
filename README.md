@@ -12,8 +12,8 @@ Addition of two feature to count the number of lines and count the number of cha
 
 TEST CASE 1 -
 
-1.Enter a string or text into the python program.
-2.The program returns the count of each character and count of lines present in the string.
+1.Enter a string or text into the python program.  
+2.The program returns the count of each character and count of lines present in the string.  
 3.It should be able to read across spaces, tabs, and newline character as seperators.
 
 Input: Hello 
@@ -24,8 +24,8 @@ Output: Lines: 3, Characters: 23
 
 TEST CASE 2 -
 
-1.Enter a string or text into the python program.
-2.The program checks whether the input text is empty string and returns ouput accordingly.
+1.Enter a string or text into the python program.  
+2.The program checks whether the input text is empty string and returns ouput accordingly.  
 
 Input: 
 
@@ -33,10 +33,10 @@ Output: Lines: 0, Characters: 0
 
 TEST CASE 3 -
 
-1.Enter a string or text into the python program.
-2.The program removes all the special characters present in the input string.
-3.It should be able to read across spaces, tabs, and newline character as seperators.
-
+1.Enter a string or text into the python program.  
+2.The program removes all the special characters present in the input string.  
+3.It should be able to read across spaces, tabs, and newline character as seperators.  
+ 
 Input: Hello, world!
 
 Output: Hello world
