@@ -7,7 +7,7 @@ Language:Python3
 Program to count the frequency of each unique word.
 
 First Requirement Change:-
-Addition of two feature to count the number of lines and count the number of characters with 3 unit tests.
+Addition of two feature to count the number of lines and characters with 3 unit tests.
 (supports combinations of space, tab, and newline characters as separators).
 
 TEST CASE 1 -
