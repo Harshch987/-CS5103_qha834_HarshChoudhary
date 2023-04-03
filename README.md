@@ -54,8 +54,8 @@ Followed by unit test which performs operations of string as :
 1. Word replacement.
 2. Count lowercase characters.
 3. Convert all uppercase character to lowercase.
-4. Returns the count of each character and lines(new).
-5. Checks for input text is empty string(new).
-6. Removes all the special characters(new).
+4. Returns the count of each character and lines (new).
+5. Checks for input text is empty string (new).
+6. Removes all the special characters (new).
 
 
