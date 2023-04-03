@@ -28,7 +28,6 @@ TEST CASE 2 -
 2.The program checks whether the input text is empty string and returns ouput accordingly.  
 
 Input: 
-
 Output: Lines: 0, Characters: 0
 
 TEST CASE 3 -
@@ -38,8 +37,9 @@ TEST CASE 3 -
 3.It should be able to read across spaces, tabs, and newline character as seperators.  
  
 Input: Hello, world!
-
 Output: Hello world
+
+Pylint Run -Your code has been rated at 9.14/10 (previous run: 8.57/10, +0.57)  
 
 #How to run program On Terminal 
 -------------------------------------------
