@@ -27,7 +27,7 @@ TEST CASE 2 -
 1.Enter a string or text into the python program.  
 2.The program checks whether the input text is empty string and returns ouput accordingly.  
 
-Input: 
+Input:   
 Output: Lines: 0, Characters: 0
 
 TEST CASE 3 -
@@ -36,7 +36,7 @@ TEST CASE 3 -
 2.The program removes all the special characters present in the input string.  
 3.It should be able to read across spaces, tabs, and newline character as seperators.  
  
-Input: Hello, world!
+Input: Hello, world!  
 Output: Hello world
 
 #How to run program On Terminal 
