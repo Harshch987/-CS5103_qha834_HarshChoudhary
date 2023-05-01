@@ -100,7 +100,7 @@ Followed by all unit test which performs operations of string as :
 4. Returns the count of each character and lines.  
 5. Checks for input text is empty string.  
 6. Removes all the special characters.  
-7. Replace the word only if pattern matche original text (new).  
+7. Replace the word only if pattern match original text (new).  
 8. Replace the word which match string and symbol (new).  
 9. Multi Occurence Word Replacement (new).
 
