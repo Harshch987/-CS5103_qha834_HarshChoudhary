@@ -4,7 +4,7 @@ Name-Harsh Choudhary, qha834
 Checkpoint: 3/10/2023  
 Language:Python3
 
-Second Requirement Change:
+**Second Requirement Change**  
 Word Statistics: The second requirement change is to allow replacement of all occurrences of a given word to a given replacement word. Note that the replacement happens only when the given pattern word matches with a whole word. For example, for text “ab cd ef”, replace “a” with “b” will result in no change, while replace “ab” with “cd” will result in “cd cd ef”.
 
 
@@ -93,12 +93,16 @@ Enter 'python3 index.py' on terminal to run python file.
 The program will execute and will print the output accordingly to the text taken as input.   
 It prints the the count of unique words, number of lines and number of characters.  
 
-Followed by unit test which performs operations of string as :
+Followed by all unit test which performs operations of string as :
 1. Word replacement.
-2. Count lowercase characters.
-3. Convert all uppercase character to lowercase.
-4. Returns the count of each character and lines (new).
-5. Checks for input text is empty string (new).
-6. Removes all the special characters (new).
+2. Count lowercase characters.  
+3. Convert all uppercase character to lowercase.  
+4. Returns the count of each character and lines.  
+5. Checks for input text is empty string.  
+6. Removes all the special characters.  
+7. Replace the word only if pattern matche original text (new).  
+8. Replace the word which match string and symbol (new).  
+9. Multi Occurence Word Replacement (new).
+
 
 
