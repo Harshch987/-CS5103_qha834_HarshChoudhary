@@ -9,11 +9,11 @@ Word Statistics: The second requirement change is to allow replacement of all oc
 
 
 
-TEST CASE 1 
+TEST CASE 1 - Word Match Replacement
 
-1.Enter a string or text into the python program.
-2.The program doesnot replace the word if pattern doesn't matches with the original text.
-3.It shouldnot be able to replace because pattern must match with the original text for replacement to happen.
+1.Enter a string or text into the python program.  
+2.The program does not replace the word if pattern doesn't matches with the original text.  
+3.It shouldnot be able to replace because pattern must match with the original text for replacement to happen.  
 
 Input: Hello world python
 
@@ -27,11 +27,11 @@ Output: Hello world python
 
 
 
-TEST CASE 2 
+TEST CASE 2 - String and Symbol Replacement
 
-1.Enter a string or text into the python program.
-2.The program replaces the word if any word in original text is combination of string and symbols.
-3.It only replaces that specific word which is the combination of string and symbols.
+1.Enter a string or text into the python program.  
+2.The program replaces the word if any word in original text is combination of string and symbols.  
+3.It only replaces that specific word which is the combination of string and symbols.  
 
 Input: H@llo world python
 
@@ -45,11 +45,11 @@ Output: Hello world python
 
 
 
-TEST CASE 3 
+TEST CASE 3 - Multi Occurence Word Replacement
 
-1.Enter a string or text into the python program.
-2.The program replace the word even there are multi occurrence word in the original text. 
-3.It should be able to replace multiple exact words at the same time.
+1.Enter a string or text into the python program.  
+2.The program replace the word even there are multi occurrence word in the original text.   
+3.It should be able to replace multiple exact words at the same time.  
 
 Input: Hello world python world
 
