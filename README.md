@@ -75,13 +75,14 @@ Ran 9 tests in 0.002s
 OK
 
 
-Code detection using pylint:
+Code Clone and Bug detection using pylint:
 ----------------------------
 
 <img width="664" alt="Screenshot 2023-04-30 at 7 00 14 PM" src="https://user-images.githubusercontent.com/54935713/235382195-f9d1125a-c14c-4833-b0d0-313aba73d725.png">
 
 
 
+![image](https://user-images.githubusercontent.com/54935713/235403075-2a315557-bb2e-41db-82cb-84686b723191.png)
 
 
 
