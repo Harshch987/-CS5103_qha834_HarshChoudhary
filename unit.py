@@ -1,5 +1,5 @@
 import unittest
-from index import replace_word, convert_to_lowercase, count_li, remove_special_chars
+from index import replace_word, convert_to_lowercase, count_li, remove_special_chars,change_word, changed_word
 
 class TestReplaceWords(unittest.TestCase):
 
@@ -49,7 +49,31 @@ class TestReplaceWords(unittest.TestCase):
         self.assertEqual(remove_special_chars("This is awesome."), "This is awesome")
         self.assertEqual(remove_special_chars("I am good!"), "I am good")
     
-        
+    def test_multi_occurrences(self):
+        original_text = "the quick brown fox jumps over the lazy dog"
+        pattern = "the"
+        replacement = "a"
+        expected_output = "a quick brown fox jumps over a lazy dog"
+        actual_output = change_word(original_text, pattern, replacement)
+        self.assertEqual(actual_output, expected_output)    
+    
+    def test_replace_word_with_symbol(self):
+        original_text = "The quick-brown fox jumps over the lazy dog"
+        pattern = "quick-brown"
+        replacement = "slow"
+        expected_output = "The slow fox jumps over the lazy dog"
+        actual_output = change_word(original_text, pattern, replacement)
+        self.assertEqual(actual_output, expected_output)
+    
+    def test_pattern_not_found(self):
+        original_text = "The quick brown fox jumps over the lazy dog"
+        pattern = "cat"
+        replacement = "dog"
+        expected_output = "Pattern not found in text."
+        actual_output = changed_word(original_text, pattern, replacement)
+        self.assertEqual(actual_output, expected_output)
+
+
 
 if __name__ == '__main__':
     unittest.main()
