@@ -1,6 +1,8 @@
-Number of lines:      3
+Final Result: cd cd ef
 
-Number of characters: 22
+Number of lines:      2
+
+Number of characters: 11
 
 i          1
 am         1
