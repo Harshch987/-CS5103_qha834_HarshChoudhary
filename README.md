@@ -9,7 +9,7 @@ Word Statistics: The second requirement change is to allow replacement of all oc
 
 
 
-TEST CASE 1 - Word Match Replacement
+**TEST CASE 1 - Word Match Replacement**
 
 1.Enter a string or text into the python program.  
 2.The program does not replace the word if pattern doesn't matches with the original text.  
