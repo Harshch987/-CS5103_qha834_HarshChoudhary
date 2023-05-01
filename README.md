@@ -27,7 +27,7 @@ Output: Hello world python
 
 
 
-TEST CASE 2 - String and Symbol Replacement
+**TEST CASE 2 - String and Symbol Replacement**
 
 1.Enter a string or text into the python program.  
 2.The program replaces the word if any word in original text is combination of string and symbols.  
@@ -45,7 +45,7 @@ Output: Hello world python
 
 
 
-TEST CASE 3 - Multi Occurence Word Replacement
+**TEST CASE 3 - Multi Occurence Word Replacement**
 
 1.Enter a string or text into the python program.  
 2.The program replace the word even there are multi occurrence word in the original text.   
@@ -83,36 +83,6 @@ Code detection using pylint:
 
 
 Program to count the frequency of each unique word.
-
-First Requirement Change:-
-Addition of two feature to count the number of lines and characters with 3 unit tests.
-(supports combinations of space, tab, and newline characters as separators).
-
-TEST CASE 1 -
-
-1.Enter a string or text into the python program.  
-2.The program returns the count of each character and count of lines present in the string.  
-3.It should be able to read across spaces, tabs, and newline character as seperators.
-
-Input: Hello \nWorld \nPython Program  
-Output: Lines: 3, Characters: 23
-
-TEST CASE 2 -
-
-1.Enter a string or text into the python program.  
-2.The program checks whether the input text is empty string and returns ouput accordingly.  
-
-Input:   
-Output: Lines: 0, Characters: 0
-
-TEST CASE 3 -
-
-1.Enter a string or text into the python program.  
-2.The program removes all the special characters present in the input string.  
-3.It should be able to read across spaces, tabs, and newline character as seperators.  
- 
-Input: Hello, world!  
-Output: Hello world
 
 #How to run program On Terminal 
 -------------------------------------------
