@@ -4,6 +4,66 @@ Name-Harsh Choudhary, qha834
 Checkpoint: 3/10/2023
 Language:Python3
 
+Second Requirement Change
+
+TEST CASE 1:
+
+1.Enter a string or text into the python program.
+2.The program doesnot replace the word if pattern doesn't matches with the original text.
+3.It shouldnot be able to replace because pattern must match with the original text for replacement to happen.
+
+Input: Hello world python
+
+
+Pattern: Dog
+
+Replacement: Cat
+       
+
+Output: Hello world python
+
+
+
+TEST CASE 2:
+
+1.Enter a string or text into the python program.
+2.The program replaces the word if any word in original text is combination of string and symbols.
+3.It only replaces that specific word which is the combination of string and symbols.
+
+Input: H@llo world python
+
+
+Pattern: H@llo
+
+Replacement: Hello
+       
+
+Output: Hello world python
+
+
+
+TEST CASE 3:
+
+1.Enter a string or text into the python program.
+2.The program replace the word even there are multi occurrence word in the original text. 
+3.It should be able to replace multiple exact words at the same time.
+
+Input: Hello world python world
+
+
+Pattern: world
+
+Replacement: universe
+       
+
+Output: Hello universe python universe
+
+Test case output:
+
+
+
+
+
 First Requirement Change
 
 TEST CASE 1 -
@@ -70,8 +130,7 @@ Input: Hello World Python Program
 
 Output: hello world python program
 
-How to run program
-On Terminal 
+How to run program On Terminal 
 
 Install Python3 before starting.
 Change directory to where 'index.py' is located. 
@@ -83,5 +142,3 @@ Followed by 3 unit test which performs operations of string as
 1. Word replacement.
 2. Count lowercase characters.
 3. Convert all uppercase character to lowercase.
-
-
