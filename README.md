@@ -69,7 +69,8 @@ Test Case Output:
 
 ------------------------------------------------------------------
 Your code has been rated at 9.14/10 (previous run: 8.57/10, +0.57)  
-Ran 9 tests in 0.025s  
+
+Ran 9 tests in 0.002s  
 
 OK
 
