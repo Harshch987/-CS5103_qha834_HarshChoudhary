@@ -74,13 +74,13 @@ Test Case Output:
 ......
 ----------------------------------------------------------------------
 ************* Module index
-index.py:42:41: W1401: Anomalous backslash in string: '\|'. String constant might be missing an r prefix. (anomalous-backslash-in-string)
-index.py:29:13: W0621: Redefining name 'text' from outer scope (line 18) (redefined-outer-name)
-index.py:54:54: W0621: Redefining name 'file' from outer scope (line 17) (redefined-outer-name)
+index.py:42:41: W1401: Anomalous backslash in string: '\|'. String constant might be missing an r prefix. (anomalous-backslash-in-string)  
+index.py:29:13: W0621: Redefining name 'text' from outer scope (line 18) (redefined-outer-name)  
+index.py:54:54: W0621: Redefining name 'file' from outer scope (line 17) (redefined-outer-name)  
 
 ------------------------------------------------------------------
-Your code has been rated at 9.14/10 (previous run: 8.57/10, +0.57)
-Ran 9 tests in 0.025s
+Your code has been rated at 9.14/10 (previous run: 8.57/10, +0.57)  
+Ran 9 tests in 0.025s  
 
 OK
 
